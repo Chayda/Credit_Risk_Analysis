@@ -16,16 +16,16 @@ Using a credit card dataset from LendingClub, a peer-to-peer lending services co
 ## Results: 
 
 ### RandomOverSampler 
-<img width="700" alt="RandomOverSampler_results" src="https://user-images.githubusercontent.com/74624855/138618626-2ab150b2-5ef5-4020-b4ba-775d1708b97a.png">
+<img width="800" alt="RandomOverSampler_results" src="https://user-images.githubusercontent.com/74624855/138618626-2ab150b2-5ef5-4020-b4ba-775d1708b97a.png">
 
-•	**Balanced Accuracy Score:** 0.6474
-•	**Precision:** 
+* **Balanced Accuracy Score:** 0.6474
+**Precision:** 
   o	High risk: 0.01
   o	Low risk: 1.00
-•	**Recall:**
+**Recall:**
   o	High risk: 0.69
   o	Low risk: 0.60
-•	**F1 Score:**
+**F1 Score:**
   o	High risk: 0.02
   o	Low risk: 0.75
 

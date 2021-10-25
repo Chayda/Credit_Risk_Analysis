@@ -20,8 +20,8 @@ Using a credit card dataset from LendingClub, a peer-to-peer lending services co
 
 - **Balanced Accuracy Score:** 0.6474
 - **Precision:** 
-  o	High risk: 0.01
-  o	Low risk: 1.00
+  - High risk: 0.01
+  - Low risk: 1.00
 - **Recall:**
   o	High risk: 0.69
   o	Low risk: 0.60
@@ -32,56 +32,56 @@ Using a credit card dataset from LendingClub, a peer-to-peer lending services co
 ### SMOTE 
 <img width="800" alt="SMOTE_results" src="https://user-images.githubusercontent.com/74624855/138618631-18071875-9767-4d80-9328-9cbc4335a1ae.png">
 
-•	**Balanced Accuracy Score:** 0.6622
-•	**Precision:**
+- **Balanced Accuracy Score:** 0.6622
+- **Precision:**
   o	High risk: 0.01
   o	Low risk: 1.00
-•	**Recall:**
+- **Recall:**
   o	High risk: 0.63
   o	Low risk: 0.69
-•	**F1 Score:**
+- **F1 Score:**
   o	High risk: 0.02
   o	Low risk: 0.82
 
 ### ClusterCentroids
 <img width="800" alt="ClusterCentroids_results" src="https://user-images.githubusercontent.com/74624855/138618639-d9e7247b-4cd7-4fda-b8ef-4a15793403e4.png">
 
-•	**Balanced Accuracy Score:** 0.5447
-•	**Precision:** 
+- **Balanced Accuracy Score:** 0.5447
+- **Precision:** 
   o	High risk: 0.01
   o	Low risk: 1.00
-•	**Recall:**
+- **Recall:**
   o	High risk: 0.69
   o	Low risk: 0.40
-•	**F1 Score:**
+- **F1 Score:**
   o	High risk: 0.01
   o	Low risk: 0.57
 
 ### SMOTEENN
 <img width="800" alt="SMOTEENN_results" src="https://user-images.githubusercontent.com/74624855/138618641-d12456b6-235d-4cae-b5c5-5919c5afe87c.png">
 
-•	**Balanced Accuracy Score:** 0.6775
-•	**Precision:**
+- **Balanced Accuracy Score:** 0.6775
+- **Precision:**
   o	High risk: 0.01
   o	Low risk: 1.00
-•	**Recall:**
+- **Recall:**
   o	High risk: 0.78
   o	Low risk: 0.57
-•	**F1 Score:**
+- **F1 Score:**
   o	High risk: 0.02
   o	Low risk: 0.73
 
 ### BalancedRandomForestClassifier 
 <img width="800" alt="BalancedRandomForests_results" src="https://user-images.githubusercontent.com/74624855/138618827-207995c1-a5f6-4665-8a79-11662498d5c1.png">
 
-•	**Balanced Accuracy Score:** 0.7812
-•	**Precision:**
+- **Balanced Accuracy Score:** 0.7812
+- **Precision:**
   o	High risk: 0.03
   o	Low risk: 1.00
-•	**Recall:**
+- **Recall:**
   o	High risk: 0.70
   o	Low risk: 0.86
-•	**F1 Score:**
+- **F1 Score:**
   o	High risk: 0.06
   o	Low risk: 0.92
 
@@ -89,14 +89,14 @@ Using a credit card dataset from LendingClub, a peer-to-peer lending services co
 ### EasyEnsembleClassifier
 <img width="800" alt="EasyEnsembleClassifier_results" src="https://user-images.githubusercontent.com/74624855/138618645-3a71a3ed-0171-4862-8148-a23760780912.png">
 
-•	**Balanced Accuracy Score:** 0.9316
-•	**Precision:**
+- **Balanced Accuracy Score:** 0.9316
+- **Precision:**
   o	High risk: 0.09
   o	Low risk: 1.00
-•	**Recall:**
+- **Recall:**
   o	High risk: 0.92
   o	Low risk: 0.94
-•	**F1 Score:**
+- **F1 Score:**
   o	High risk: 0.16
   o	Low risk: 0.97
 

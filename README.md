@@ -101,7 +101,7 @@ Using a credit card dataset from LendingClub, a peer-to-peer lending services co
   - Low risk: 0.97
 
 
-## Summary: results of the models and a recommendation on the model to use, if any. Justify the reasoning.
+## Summary: 
 
 Based on the results, the model that resulted in the best performance was the EasyEnsembleClassifier. Of the six models, this was the most accurate and robust, with an accuracy score of 93%, and an F1 score for the low-risk group of 0.97. The results for the over-sampled data vs the under-sampled data were similar, but the ClusterCentroids model performed the most poorly, with an accuracy score of only 54%. None of the models had a very high precision for the high-risk group.
 

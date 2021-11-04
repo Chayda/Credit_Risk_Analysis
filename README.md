@@ -1,7 +1,7 @@
 # Credit_Risk_Analysis
 Apply Machine Learning to solve for credit card risk using scikit-learn and imbalanced-learn Python Packages.
 
-## Overview: explain purpose of analysis
+## Overview: 
 Using a credit card dataset from LendingClub, a peer-to-peer lending services company, using multiple Machine Learning (ML) models to predict credit risk. The target is loan_status, which is categorized as ‘low_risk’ or ‘high_risk’. The model with the best performance will have a good balance of precision and recall, as indicated by a high F1 Score.
 
 ### Six ML models are created: 
